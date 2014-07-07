@@ -1,5 +1,40 @@
 [
     {
+        "repository":   "errantzebra845/vendor_asus",
+        "target_path":  "vendor/asus",
+        "branch":     "ck44"
+    },
+    {
+        "repository":   "errantzebra845/vendor_broadcom",
+        "target_path":  "vendor/broadcom",
+        "branch":     "ck44"
+    },
+    {
+	"repository":   "errantzebra845/vendor_elan",
+        "target_path":  "vendor/elan",
+        "branch":     "ck44"
+    },
+    {
+        "repository":   "errantzebra845/vendor_invensense",
+        "target_path":  "vendor/invensense",
+        "branch":     "ck44"
+    },
+    {
+        "repository":   "errantzebra845/vendor_nvidia",
+        "target_path":  "vendor/nvidia",
+        "branch":     "ck44"
+    },
+    {
+	"repository":	"errantzebra845/vendor_nxp",
+        "target_path":  "vendor/nxp",
+        "branch":     "ck44"
+    },
+    {
+        "repository":   "errantzebra845/vendor_widevine",
+        "target_path":  "vendor/widevine",
+        "branch":     "ck44"
+    },
+    {
         "repository":   "SlimRoms/kernel_asus_grouper",
         "target_path":  "kernel/asus/grouper",
         "branch":     "kk4.4"
